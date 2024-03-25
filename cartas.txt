@@ -1,0 +1,70 @@
+Amistad con la FIFA. Elegís la camiseta tuya y del rival toda la temporada.
+Juego brusco en el primer entrenamiento de la pretemporada. Se lesionó gravemente el mejor jugador de tu equipo. Sortea si se pierde uno, dos o tres torneos.
+Contrato de patrocinio a la vista. El acuerdo es por 20 puntos.
+Obras en el estadio. Gastás 20 puntos.
+Tu arquero hizo la gran Monetti. Se lesionó jugando con amigos. Sortea si se pierde uno, dos o tres torneos.
+Un escándalo mediático involucra a un jugador de tu equipo al azar. El club decide rescindir contrato.
+El mecanismo de solidaridad de la FIFA te aporta un gran ingreso por la venta de un ex jugador surgido del club. Sumas 50 puntos.
+Los hinchas del club usaron pirotecnia en el último partido. Sanción de 50 puntos.
+La dupla central titular se cagó a trompadas en el último entrenamiento. El primer central te dice la frase "O se va él o me voy yo". Vos decidís quién se va.
+Ganás la localía en cualquier final que juegues en la temporada.
+Se te da el permiso de que venga libre un jugador extra de una liga sudamericana, siempre cumpliendo la restricción de general.
+Podés incorporar un jugador con agente libre, siempre cumpliendo la restricción de general.
+Se necesita una reducción salarial. Un jugador se tiene que ir libre, vos elegís quién.
+Podés intercambiar a un jugador de tu club por cualquier otro siempre y cuando sea del mismo general y de un club ajeno a los de los demás participantes.
+Llega libre el mejor jugador de un club aleatorio, siempre cumpliendo la restricción de general.
+Sumás un arquero a elección de un país aleatorio, siempre cumpliendo la restricción de general.
+No hay noticias.
+Elegí dos cartas más.
+Sumás al mejor jugador de una liga aleatoria, siempre cumpliendo la restricción de general.
+Un jugador al azar da doping positivo y se le sanciona con una temporada sin jugar.
+Tu arquero gana un torneo de penales en la práctica y se le asigna como el pateador hasta que erre uno, o termine la temporada.
+Uno de tus tres mejores jugadores se va libre al equipo de Nano. Vos decidís cuál. Si es tu equipo, no pasa nada.
+Uno de tus tres mejores jugadores se va libre al equipo de Facu. Vos decidís cuál. Si es tu equipo, no pasa nada.
+Uno de tus tres mejores jugadores se va libre al equipo de Juampi. Vos decidís cuál. Si es tu equipo, no pasa nada.
+Uno de tus tres mejores jugadores se va libre al equipo de Fabri. Vos decidís cuál. Si es tu equipo, no pasa nada.
+Un jugador de tu equipo al azar se va al equipo de Fabri. Si es tu equipo, no pasa nada.
+Un jugador de tu equipo al azar se va al equipo de Nano. Si es tu equipo, no pasa nada.
+Un jugador de tu equipo al azar se va al equipo de Facu. Si es tu equipo, no pasa nada.
+Un jugador de tu equipo al azar se va al equipo de Juampi. Si es tu equipo, no pasa nada.
+El goleador de tu equipo ayuda con su amistad a que venga libre el mejor jugador sub-23 de su país, siempre cumpliendo la restricción de general.
+Sumás a talento sub-23 a elección, pero pagando su precio, y siempre cumpliendo la restricción de general.
+Sumás a veterano de edad mayor o igual a 34 años a elección, pero pagando su precio, y siempre cumpliendo la restricción de general.
+Un equipo chino paga la cláusula de un jugador al azar de tu equipo.
+Te llega una oferta del 150% del valor de tu jugador más jóven. Vos decidís si aceptás.
+Te llega una oferta del doble del valor de tu mejor jugador. Vos decidís si aceptás.
+Se retira el jugador más viejo del club.
+Hubo acuerdo medio tramposo con la federación. Elegís a tu rival en la Copa Pretemporada
+Una sanción de la FIFA no te permite incorporar más de un jugador.
+Los demás participantes realizarán una votación para ver a qué jugador sobornar para que se vaya de tu equipo.
+Tu arquero titular se va del club, pero te recomienda al mejor arquero sub-23 en la actualidad para que lo contrates libre, siempre teniendo en cuenta la restricción por general.
+El presidente quiere poner en la vidriera a los suplentes, pero para eso necesita que sumen minutos. Decide que los suplentes sean titulares en la Copa Pretemporada.
+Avisale al presidente qué puesto querés reforzar (arq, def, vol o del). Llegará a costo cero el mejor jugador de esa posición de un equipo aleatorio, siempre cumpliendo la restricción de general.
+Un gigante de Europa notó la actuación del goleador del equipo. Ofrece el doble de su ficha para llevarselo. Vos decidís si aceptás.
+El presidente quiere mejorar la relación con el club de Nano. Tenés permiso de un intercambio extra de un jugador tuyo por uno suyo. Si es tu equipo, no pasa nada.
+El presidente quiere mejorar la relación con el club de Juampi. Tenés permiso de un intercambio extra de un jugador tuyo por uno suyo. Si es tu equipo, no pasa nada.
+El presidente quiere mejorar la relación con el club de Facu. Tenés permiso de un intercambio extra de un jugador tuyo por uno suyo. Si es tu equipo, no pasa nada.
+El presidente quiere mejorar la relación con el club de Fabri. Tenés permiso de un intercambio extra de un jugador tuyo por uno suyo. Si es tu equipo, no pasa nada.
+El club quiere generar un bombazo internacional para aumentar el prestigio del club en otros países. Tenés la posibilidad de contratar al mejor jugador de una selección aleatoria, pagando el precio de su ficha. Siempre cumpliendo la restricción de general.
+Las inferiores dan frutos. Podés subir a un jugador sub-21 de la plantilla original de tu club, siempre cumpliendo la restricción de general.
+Un equipo manejado por un jeque paga la cláusula de tu jugador más jóven.
+Metés un contacto en la FIFA. Podés bannear un modo de juego
+Tus jugadores de 81+ serán convocados por su selección. Se pierden el torneo de pretemporada.
+Tu arquero pide tener un reemplazo. O comprás un arquero o se va del club. Si tiene reemplazo no pasa nada.
+Tres inversionistas se interesan en tu club. La suerte decidirá con cuál se llega a buen puerto. Sorteás si ganás 50, 75 o 100.
+Llegan dos ofertas por tus dos mejores laterales a cambio del precio de su general. El presidente del club te obliga a aceptar una de las dos, vos elegís cuál.
+Un jugador que elijas de posicion al azar se va al equipo de juampi.(libre)
+Un jugador que elijas de posicion al azar se va al equipo de fabri.(libre)
+Un jugador que elijas de posicion al azar se va al equipo de facu.(libre)
+Un jugador que elijas de posicion al azar se va al equipo de nano.(libre)
+Conversaciones avanzadas para que venga libre un ex jugador del club (clubes externos real a eleccion, siempre con renstriccion general).
+Un pase bomba en el mercado el mejor jugador de tu equipo rival se cruza de vereda gratis a tu equipo (sin contar los de equipos de participantes).
+Competencia en el arco. Se te da la posibilidad de fichar a mitad de precio a un arquero con el mismo general que el actual. En caso de no tener arquero, el general es 80.
+Conflicto contractual con tu mejor jugador. Tenés dos opciones: se va libre a final de temporada, o lo intercambias por otro de su mismo general, pero de distinta posición.
+Por una inhibición de la FIFA, no podés hacer cambios en los partidos por dos torneos.
+Tu mejor jugador resulta ser un pecho frío. No puede jugar las finales por tres torneos hasta tener sesiones con su psicólogo.
+Tenés la posibilidad de subirte a la Scaloneta. Se te ofrece un intercambio por cualquier campeón del mundo siempre que el general lo permite, y que el intercambio sea por un jugador de igual general.
+Jugás el próximo torneo con la configuración del joystick en alternativa.
+Jugás el primer tiempo del próximo partido con la configuración del joystick en dos botones.
+Se te da la ventaja de poner pausa unz vez en cada partido del próximo torneo
+A modo de invitación para los amistosos de pretemporada, se te ofrece la posibilidad de sumar a un jugador de +90 de gral.
