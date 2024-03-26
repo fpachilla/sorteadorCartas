@@ -4,13 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sorteador</title>
+    <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-    <h1>Bienvenido al sorteador de cartas</h1>
-    <button onclick="getCarta()">Obtener carta</button>
-    <p id="carta1"></p>
-    <p id="carta2"></p>
-    <p id="carta3"></p>
+    <div id="container">
+        <h1>Bienvenido al sorteador de cartas</h1>
+        <button onclick="getCarta()">Obtener carta</button>
+    </div>
+    <div>
+        <p id="carta1" class="carta"></p>
+        <p id="carta2" class="carta"></p>
+        <p id="carta3" class="carta"></p>
+        <p id="carta4"></p>
+        <p id="carta5"></p>
+    </div>
 </body>
 <script src="script.js"></script>
 </html>

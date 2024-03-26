@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('fondo.jpg'); /* Cambiar 'fondo.jpg' por la ruta de tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Para evitar que el fondo se desplace cuando se muestren las cartas */
+    transition: filter 0.5s ease; /* Transición suave para el filtro de desenfoque */
+}
+
+.blur {
+    filter: blur(5px); /* Ajustar la cantidad de desenfoque según sea necesario */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.difuminado {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    filter: blur(5px);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.carta {
+    background-color: rgba(255, 255, 255, 0.9); /* Color de fondo de las cartas */
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Sombra suave para las cartas */
+    opacity: 0; /* Las cartas estarán ocultas inicialmente */
+    transition: opacity 0.5s ease; /* Transición suave para la opacidad */
+}
+
+.carta.mostrar {
+    opacity: 1; /* Mostrar las cartas */
+}
