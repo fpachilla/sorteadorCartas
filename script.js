@@ -85,14 +85,12 @@ function getValorRandom(){
         // Esperamos un breve momento para simular la lectura del archivo
         setTimeout(() => {
             if (cartas.length > 0) {
-                contador = contador + 1;
                 let indiceAleatorio = Math.floor(Math.random() * cartas.length);
                 let valorAleatorio = cartas[indiceAleatorio];
                 if (valorAleatorio == "Elegí dos cartas más."){
                     cartasAdicionales = true;
                 }
                 cartas.splice(indiceAleatorio, 1);
-                console.log(contador);
                 console.log('Valor aleatorio:', valorAleatorio);
                 resolve(valorAleatorio);
             } else {
