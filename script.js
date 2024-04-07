@@ -1,8 +1,8 @@
 // Ruta del archivo txt predefinido
 const rutaArchivo = 'cartas.txt';
-
+// Array de cartas
 var cartas = [];
-
+// Variable para saber si hay que darle dos cartas adicionales al usuario
 var cartasAdicionales = false;
 
 // Función para leer el archivo y guardar las líneas en un array
@@ -19,38 +19,22 @@ async function getCarta() {
         const valorRandom = await getValorRandom();
         document.getElementById("carta1").textContent = valorRandom;
 
-        // Continuamos con el resto de las operaciones después de obtener la primera carta
-
-        // Obtener todos los elementos con la clase "carta"
-        // var cartasHTML = document.querySelectorAll(".carta");
-
-        // Iterar sobre cada elemento y agregar la clase "mostrar"
-        //cartasHTML.forEach(function(carta) {
-        //    carta.classList.add("mostrar");
-        //});
-
         document.getElementById("carta1").classList.add("mostrar")
         document.getElementById("boton1").style.display = 'none';
         document.getElementById('boton2').style.display = 'block';
-
-
-        // Esperar un breve momento para permitir que las cartas se muestren completamente
-        setTimeout(function() {
-            // Agregar la clase 'blur' al body para aplicar el efecto de desenfoque
-            // document.getElementById("container").className = "difuminado";
-        }, 10); // Ajusta el tiempo según sea necesario
 
     } catch (error) {
         console.error('Error:', error);
     }
 }
 
+// Creación de eventos según el botón
 document.getElementById('boton2').addEventListener('click', getNuevaCarta)
 document.getElementById('boton3').addEventListener('click', getNuevaCarta)
 document.getElementById('boton4').addEventListener('click', getNuevaCarta)
 document.getElementById('boton5').addEventListener('click', getNuevaCarta)
 
-
+// Mostrar y esconder los botones
 async function getNuevaCarta(event) {
     try {
         if(event.target.id == 'boton2'){
@@ -69,7 +53,7 @@ async function getNuevaCarta(event) {
             document.getElementById("carta3").classList.add("mostrar")
 
             document.getElementById("boton3").style.display = 'none';
-            if(cartasAdicionales){
+            if(valorRandom == "Elegí dos cartas más." || cartasAdicionales){
                 document.getElementById("boton4").style.display = 'block';
             }
         }
@@ -101,13 +85,14 @@ function getValorRandom(){
         // Esperamos un breve momento para simular la lectura del archivo
         setTimeout(() => {
             if (cartas.length > 0) {
+                contador = contador + 1;
                 let indiceAleatorio = Math.floor(Math.random() * cartas.length);
                 let valorAleatorio = cartas[indiceAleatorio];
                 if (valorAleatorio == "Elegí dos cartas más."){
                     cartasAdicionales = true;
                 }
                 cartas.splice(indiceAleatorio, 1);
-                console.log(cartas);
+                console.log(contador);
                 console.log('Valor aleatorio:', valorAleatorio);
                 resolve(valorAleatorio);
             } else {
@@ -116,4 +101,3 @@ function getValorRandom(){
         }, 1000); // Simula la lectura del archivo durante 1 segundo
     });
 }
-
