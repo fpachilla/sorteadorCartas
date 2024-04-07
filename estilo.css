@@ -46,8 +46,13 @@ button:hover {
     background-color: #0056b3;
 }
 
+button.invisible{
+    display: none;
+}
+
 .carta {
     background-color: rgba(255, 255, 255, 0.9); /* Color de fondo de las cartas */
+    text-align: center;
     padding: 10px 20px;
     margin-bottom: 10px;
     border-radius: 10px;
